@@ -1,3 +1,6 @@
 [submodule ".themes/HPSTR"]
 	path = .themes/HPSTR
 	url = https://github.com/Z1MM32M4N/hpstr-theme/
+[submodule ".themes/object-octopress-theme"]
+	path = .themes/object-octopress-theme
+	url = https://github.com/gluttony/object-octopress-theme
