@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://sarahsjc.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: sample post | My Octopress Blog]]></title>
+  <link href="http://sarahsjc.github.io/blog/categories/sample-post/atom.xml" rel="self"/>
   <link href="http://sarahsjc.github.io/"/>
   <updated>2014-12-17T19:43:07+08:00</updated>
   <id>http://sarahsjc.github.io/</id>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Our career start from today]]></title>
-    <link href="http://sarahsjc.github.io/blog/2014/12/11/our-career-start-from-today/"/>
-    <updated>2014-12-11T20:31:32+08:00</updated>
-    <id>http://sarahsjc.github.io/blog/2014/12/11/our-career-start-from-today</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[This is a sample post]]></title>
